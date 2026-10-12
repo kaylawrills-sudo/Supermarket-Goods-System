@@ -1,0 +1,16 @@
+# Supermarket Goods Management System 🛒
+
+Inventory and sales management for supermarkets.
+
+## Features
+- Product entry & barcode search
+- Stock tracking with low-stock alerts
+- Expiry date monitoring
+- Automatic stock deduction on sale
+- Daily sales reports (1000+ products)
+
+## Tech Stack
+JavaScript, Node.js, MySQL, Express
+
+## Author
+Esther Fenyi - Pentecost University
